@@ -1,2 +1,2 @@
 # Data-Science-Internship
-My Data Sciencew Projects 
+My Data Science Projects in python
